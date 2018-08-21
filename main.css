@@ -1,1 +1,1 @@
-html,body{margin:0;padding:0}div{height:1000px;background-color:aqua}div:hover{background-color:blue}@media(max-width: 600px){div{max-width:50vw}}
+html,body{margin:0;padding:0;background-color:red}div{height:1000px;background-color:aqua}div:hover{background-color:blue}@media(max-width: 600px){div{max-width:50vw}}
